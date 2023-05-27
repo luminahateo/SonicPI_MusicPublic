@@ -3,7 +3,7 @@
 ### Que trouver dans ce répertoire?
 
 *Divers musiques que j'essaie d'adapter au mieux dans le logiciel et ce dans le but d'apprendre à le maitriser.  
-Il va de soi que les musiques non-libre de droits reviennent à leur(s) propriétaire(s). 
+Il va de soi que les musiques non-libre de droits reviennent à leur(s) propriétaire(s).* 
 
 ### **Sonic Pi** Qu'es ce donc?
 
